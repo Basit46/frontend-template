@@ -1,10 +1,10 @@
 import React from "react";
-import Layout from "./layout";
+import Home from "./pages/Home";
 
 function App() {
   return (
-    <div>
-      <Layout />
+    <div className="text-white">
+      <Home />
     </div>
   );
 }
