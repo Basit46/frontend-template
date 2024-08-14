@@ -8,7 +8,9 @@ export default {
         xmd: "850px",
       },
       fontFamily: {
-        Montserrat: ["Montserrat", "sans-serif"],
+        CherryBomb: ["Cherry Bomb One", "sans-serif"],
+        CherryCreamSoda: ["Cherry Cream Soda", "sans-serif"],
+        ChelseaMarket: ["Chelsea Market", "sans-serif"],
       },
       backgroundImage: {
         "custom-gradient":
