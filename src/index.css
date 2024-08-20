@@ -5,19 +5,4 @@
 @tailwind utilities;
 
 @layer components {
-  nav li {
-    @apply text-[14px] text-white cursor-pointer;
-  }
-  nav .social-link {
-    @apply relative z-[2] size-[51px] rounded-full bg-[#FFD242] grid place-items-center border border-black;
-  }
-}
-
-.hero {
-  background-color: #113608;
-  background-image: url("./assets/heroBg.png");
-
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
 }

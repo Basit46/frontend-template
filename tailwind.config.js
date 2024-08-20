@@ -7,15 +7,6 @@ export default {
         vsm: "500px",
         xmd: "850px",
       },
-      fontFamily: {
-        CherryBomb: ["Cherry Bomb One", "sans-serif"],
-        CherryCreamSoda: ["Cherry Cream Soda", "sans-serif"],
-        ChelseaMarket: ["Chelsea Market", "sans-serif"],
-      },
-      backgroundImage: {
-        "custom-gradient":
-          "linear-gradient(180deg, #FFFFFF 0%, #898989 118.38%)",
-      },
     },
   },
   plugins: [],
